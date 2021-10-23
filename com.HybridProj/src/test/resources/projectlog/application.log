@@ -1,0 +1,6 @@
+2021-10-11 14:34:04,259  INFO [main] LoginTest:11 - Test1 started.
+2021-10-11 14:36:39,511  INFO [main] ListenerEx:36 - Test case started with context: Default test
+2021-10-11 14:36:39,651  INFO [main] ListenerEx:11 - Test case started with name: test1
+2021-10-11 14:36:39,691  INFO [main] LoginTest:14 - Test1 started.
+2021-10-11 14:36:39,712  INFO [main] ListenerEx:16 - Test case sucessfully comleted with name: test1
+2021-10-11 14:36:39,770  INFO [main] ListenerEx:40 - Test case completed with context: Default test
