@@ -1,0 +1,129 @@
+2021-10-11 14:34:04,259  INFO [main] LoginTest:11 - Test1 started.
+2021-10-11 14:36:39,511  INFO [main] ListenerEx:36 - Test case started with context: Default test
+2021-10-11 14:36:39,651  INFO [main] ListenerEx:11 - Test case started with name: test1
+2021-10-11 14:36:39,691  INFO [main] LoginTest:14 - Test1 started.
+2021-10-11 14:36:39,712  INFO [main] ListenerEx:16 - Test case sucessfully comleted with name: test1
+2021-10-11 14:36:39,770  INFO [main] ListenerEx:40 - Test case completed with context: Default test
+2021-10-22 21:05:39,095  INFO [main] ListenerEx:41 - Test case started with context: Default test
+2021-10-22 21:05:39,165  INFO [main] ListenerEx:16 - Test case started with name: test1
+2021-10-22 21:05:39,176  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:05:39,191  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:05:39,194  INFO [main] ListenerEx:45 - Test case completed with context: Default test
+2021-10-22 21:07:49,117  INFO [main] ListenerEx:41 - Test case started with context: Default test
+2021-10-22 21:07:49,202  INFO [main] ListenerEx:16 - Test case started with name: test1
+2021-10-22 21:07:49,214  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:07:49,220  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:07:49,222  INFO [main] ListenerEx:45 - Test case completed with context: Default test
+2021-10-22 21:09:48,416  INFO [main] ListenerEx:41 - Test case started with context: Default test
+2021-10-22 21:09:48,490  INFO [main] ListenerEx:16 - Test case started with name: test1
+2021-10-22 21:09:48,503  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:09:48,510  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:09:48,512  INFO [main] ListenerEx:45 - Test case completed with context: Default test
+2021-10-22 21:12:12,345  INFO [main] ListenerEx:41 - Test case started with context: Default test
+2021-10-22 21:12:12,497  INFO [main] ListenerEx:16 - Test case started with name: test1
+2021-10-22 21:12:12,511  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:12:12,517  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:12:12,519  INFO [main] ListenerEx:45 - Test case completed with context: Default test
+2021-10-22 21:14:17,770  INFO [main] ListenerEx:41 - Test case started with context: Default test
+2021-10-22 21:14:17,856  INFO [main] ListenerEx:16 - Test case started with name: test1
+2021-10-22 21:14:17,872  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:14:17,882  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:14:17,885  INFO [main] ListenerEx:45 - Test case completed with context: Default test
+2021-10-22 21:19:42,809  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 21:19:42,897  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:19:42,899  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 21:19:42,907  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:19:42,908  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 21:19:42,910  INFO [main] ListenerEx:51 - Test case completed with context: Default test
+2021-10-22 21:20:37,517  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 21:20:37,605  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:20:37,606  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 21:20:37,619  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:20:37,620  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 21:20:37,622  INFO [main] ListenerEx:51 - Test case completed with context: Default test
+2021-10-22 21:58:59,610  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 21:58:59,735  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:58:59,735  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 21:58:59,742  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:58:59,743  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 21:58:59,745  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-22 21:59:46,668  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 21:59:46,788  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:59:46,789  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 21:59:46,799  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 21:59:46,800  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 21:59:46,802  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-22 22:02:08,532  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 22:02:08,659  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:02:08,660  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:02:08,668  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:02:08,669  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:02:08,672  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-22 22:03:09,506  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 22:03:09,593  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:03:09,595  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:03:09,607  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:03:09,609  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:03:09,610  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-22 22:04:06,225  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 22:04:06,359  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:04:06,361  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:04:06,375  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:04:06,400  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:04:06,404  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-22 22:06:46,440  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 22:06:46,503  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:06:46,504  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:06:46,517  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:06:46,518  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:06:46,520  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-22 22:08:30,821  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 22:08:30,850  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 22:08:31,066  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:08:31,070  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:08:31,076  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:08:31,078  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:08:31,090  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:08:31,091  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:08:31,092  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:08:31,095  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:08:31,096  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-22 22:08:31,097  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-22 22:08:33,100  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 22:08:33,152  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 22:08:33,168  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:08:33,169  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:08:33,174  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:08:33,175  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:08:33,177  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-22 22:08:33,215  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:08:33,216  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:08:33,224  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:08:33,225  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:08:33,226  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-22 22:14:15,470  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 22:14:15,550  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:14:15,551  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:14:15,558  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:14:15,559  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:14:15,561  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-22 22:15:40,856  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 22:15:40,956  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:15:40,957  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:15:40,964  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:15:40,964  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:15:40,966  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-22 22:19:25,026  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 22:19:25,173  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:19:25,174  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:19:25,181  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:19:25,182  INFO [main] ListenerEx:27 - java.lang.NullPointerException
+2021-10-22 22:19:25,184  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-22 22:22:49,475  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-22 22:22:49,584  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:22:49,590  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-22 22:22:49,591  INFO [main] ListenerEx:50 - Test case completed with context: Default test
+2021-10-23 08:18:06,149  INFO [main] ListenerEx:47 - Test case started with context: Default test
+2021-10-23 08:18:06,316  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-23 08:18:06,337  INFO [main] ListenerEx:26 - Test case failed with name: test1
+2021-10-23 08:18:06,339  INFO [main] ListenerEx:50 - Test case completed with context: Default test
