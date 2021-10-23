@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45296" started-at="2021-10-03T17:22:57Z" finished-at="2021-10-03T17:23:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45296" started-at="2021-10-03T17:22:57Z" finished-at="2021-10-03T17:23:43Z">
+      <class name="com.day1.TestVerifyLogin_chrome">
+        <test-method status="PASS" signature="Test()[pri:0, instance:com.day1.TestVerifyLogin_chrome@8e0379d]" name="Test" duration-ms="10334" started-at="2021-10-03T17:22:57Z" finished-at="2021-10-03T17:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.day1.TestVerifyLogin_chrome@8e0379d]" name="Test1" duration-ms="10013" started-at="2021-10-03T17:23:08Z" finished-at="2021-10-03T17:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.day1.TestVerifyLogin_chrome@8e0379d]" name="Test2" duration-ms="11746" started-at="2021-10-03T17:23:18Z" finished-at="2021-10-03T17:23:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:com.day1.TestVerifyLogin_chrome@8e0379d]" name="Test3" duration-ms="13086" started-at="2021-10-03T17:23:29Z" finished-at="2021-10-03T17:23:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- com.day1.TestVerifyLogin_chrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
