@@ -1,6 +1,9 @@
 package com.testcases;
 
+import static org.testng.Assert.assertEquals;
+
 import org.apache.log4j.Logger;
+import org.testng.Assert;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
@@ -13,10 +16,16 @@ public class LoginTest extends BaseClass {
 	public void test1() {
 		log.info("Test1 started.");
 	prop.readProperties("browser");
-	
-		
-	
+	Assert.assertEquals(false, true);
 }
+	
+
+	@Test
+	public void test2 (){
+		log.info("Test 2 started.");
+		Assert.assertEquals(false, false);
+		
+	}
 	
 	
 }
