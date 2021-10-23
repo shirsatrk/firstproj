@@ -24,8 +24,7 @@ public class LoginTest extends BaseClass {
 	public void test2 (){
 		log.info("Test 2 started.");
 		Assert.assertEquals(false, false);
-		
-	}
+			}
 	
 	
 }
